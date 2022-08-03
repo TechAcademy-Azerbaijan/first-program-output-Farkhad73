@@ -1,0 +1,35 @@
+{
+  "tests": [
+    {
+      "name": "Task 1",
+      "setup": "",
+      "run": "node task-1/main.js",
+      "input": "",
+      "output": "Hello World!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    },
+    {
+      "name": "Task 2",
+      "setup": "",
+      "run": "node task-2/main.js",
+      "input": "",
+      "output": "a\r\nbb\r\nccc",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    },
+    {
+      "name": "Task 3",
+      "setup": "",
+      "run": "node task-3/main.js",
+      "input": "",
+      "output": "1\r\n2\r\n3\r\n4\r\n5",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+
+  ]
+}
